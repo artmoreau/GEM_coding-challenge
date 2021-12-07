@@ -2,7 +2,7 @@ This API was written to solve the [coding challenge](https://github.com/gem-spaa
 
 # How to launch :
 
-To launch the API, you have to give a valid .json file as first argument to the main. Like this :
+To launch the API, you have to install python3 on your computer and then give a valid .json file as first argument to the main. Like this :
 
  - python main.py json_filename
 
